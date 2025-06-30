@@ -1,0 +1,1 @@
+2. Implement a simplified version of Redux using the React Context API and hooks. This mini state manager should include a global state, a way to dispatch actions, and a reducer to handle state changes. Demonstrate its use in a component.
